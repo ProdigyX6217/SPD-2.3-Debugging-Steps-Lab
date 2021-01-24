@@ -5,7 +5,7 @@ Exercise 1
 # PART 1: Gather Information
 #
 # TODO: Gather information about the source of the error and paste your findings here. E.g.:
-# - What is the expected vs. the actual output?   Expected Output is 4 while the Actual Output is a Stack Trace.
+# - What is the expected vs. the actual output?   Expected Output is 4 while the Actual Output is a list index out of range error.
 # - What error message (if any) is there?   IndexError: list index out of range.
 # - What line number is causing the error?   File "exercise-1.py", line 23, in find_largest_diff.
 # - What can you deduce about the cause of the error?   the list index cannot be accessed properly.
